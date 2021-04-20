@@ -3,7 +3,7 @@ title: Welche Rolle spielen die Grünen in Hessen bei der Aufklärung der NSU-Ve
 tags: aufklaerung
 infos:
   - url: https://www.gruene-bundestag.de/themen/rechtsextremismus
-    text: "Rechtsextremismus: Grüne im Bundestag"
+    text: "Rechtsextremismus: Grüne im Bundestag" Müssen raus da
   - url: https://www.tagesspiegel.de/politik/zu-viel-harmonie-in-hessen-trotz-nsu-2-0-gruenen-politikerin-will-aufklaerung-rechter-netzwerke-zur-koalitionsfrage-machen/26040998.html
     text: Grünen-Politikerin will Aufklärung rechter Netzwerke zur Koalitionsfrage machen (Tagesspiegel)
 ---
